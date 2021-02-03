@@ -7,9 +7,9 @@ import numpy as np
 
 # parameters
 image_path = 'imgs/img00012.jpg'
-confidence_img = .4
-threshold_score = .3
-threshold__non_maximum_suppression = .3
+confidence_img = .2
+threshold_score = .2
+threshold__non_maximum_suppression = .4
 
 
 
